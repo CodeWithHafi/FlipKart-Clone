@@ -4,7 +4,7 @@ A full-featured, responsive Flipkart clone built to showcase my frontend develop
 
 ## 📸 Live Demo
 
-[Click here to view the live project](#) *(Add your live link here)*
+[Click here to view the live project](#) *(Will be Updated Soon)*
 
 ---
 
@@ -13,7 +13,7 @@ A full-featured, responsive Flipkart clone built to showcase my frontend develop
 - **HTML5** – Markup structure  
 - **CSS3 / Bootstrap** – Styling & responsive layout  
 - **JavaScript** – Dynamic functionality and DOM manipulation  
-- *(Add backend/database stack if used)*
+- *(currently no backend is used, if so will be updated later on)*
 
 ---
 
@@ -28,5 +28,5 @@ A full-featured, responsive Flipkart clone built to showcase my frontend develop
 
 ---
 
-## 📂 Project Structure
+
 
